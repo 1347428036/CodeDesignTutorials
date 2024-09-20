@@ -13,6 +13,9 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * 责任链模式
+ * */
 public class ApiTest {
 
     private Logger logger = LoggerFactory.getLogger(ApiTest.class);
